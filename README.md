@@ -1,6 +1,5 @@
-<h2 align=center>👋 Hey traveler, welcome to my profile!<h1>
+<h2 align="center">👋 Hey traveler, welcome to my profile!<h2>
 <h4 align="center">Web/Software/Game Dev | Cybersecurity | 3D Modelling | Audio Production | Photography</h4>
-<br/>
   
 <p align="center">
   <img align="center" alt="Julien Vanelian | Stats" src="https://github-readme-stats.vercel.app/api?username=distrikt64&show_icons=true"/>
