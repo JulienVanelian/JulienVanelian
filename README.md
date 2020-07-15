@@ -1,5 +1,5 @@
 <h2 align=center>👋 Hey traveler, welcome to my profile!<h1>
-<h4 align="center">Web/software/game developement | Cybersecurity | 3D Modelling | Audio production | Photography</h4>
+<h4 align="center">Web/Software/Game Dev | Cybersecurity | 3D Modelling | Audio Production | Photography</h4>
 <br/>
   
 <p align="center">
