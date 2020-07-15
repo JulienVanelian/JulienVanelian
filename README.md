@@ -1,8 +1,12 @@
 <h2 align=center>👋 Hey traveler, welcome to my profile!<h1>
 <h4 align="center">Web/software/game developement | Cybersecurity | 3D Modelling | Audio production | Photography</h4>
 <br/>
+  
+<p align="center">
+  <img align="center" alt="Julien Vanelian | Stats" src="https://github-readme-stats.vercel.app/api?username=distrikt64&show_icons=true"/>
+</p>
 
-[![Distrikt64's github stats](https://github-readme-stats.vercel.app/api?username=distrikt64&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
 <p align="center">
   <a href="https://twitter.com/julienvanelian">
@@ -16,11 +20,13 @@
   </a>
 </p>
 
-<ul>
-  <li>🟢 Currently working at <a href="https://puremix.net">pureMix</a> as a full stack web developper.</li>
-  <li>📢 Check out my portfolio, available for now only in french: <a href="https://julien-vanelian.com">julien-vanelian.com</a>.</li>
-  <li>💭 Currently working on small web projects.</li>
-</ul>
+<br/>
+
+<p align="center">
+  🟢 Currently working at <a href="https://puremix.net">pureMix</a> as a full stack web developper.<br/>
+  📢 Check out my portfolio, available for now only in french: <a href="https://julien-vanelian.com">julien-vanelian.com</a>.<br/>
+  💭 Currently working on small web projects.
+</p>
 
 <h3 align="center">🌟 Recent discoveries</h3>
 
