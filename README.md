@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey traveler, welcome to my profile!<h2>
+<h2 align="center">👋 Hey traveler, welcome to my profile!</h2>
 <h4 align="center">Web/Software/Game Dev | Cybersecurity | 3D Modelling | Audio Production | Photography</h4>
   
 <p align="center">
