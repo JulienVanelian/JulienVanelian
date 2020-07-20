@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey traveler, welcome to my profile!</h2>
+<h2 align="center">👋 Hey fellow traveler, welcome to my profile!</h2>
 <h4 align="center">Web/Software/Game Dev | Cybersecurity | 3D Modelling | Audio Production | Photography</h4>
   
 <p align="center">
@@ -27,7 +27,7 @@
   💭 Currently working on small web projects.
 </p>
 
-<h3 align="center">🌟 Recent discoveries</h3>
+<h3 align="center">🌟 Recent discoveries 🌟</h3>
 
 <p align="center">
   <a href="https://github.com/alpinejs/alpine">Alpine.js</a> | 
