@@ -2,7 +2,7 @@
 <h4 align="center">Web/Software/Game Dev | Cybersecurity | 3D Modelling | Audio Production | Photography</h4>
   
 <p align="center">
-  <img align="center" alt="Julien Vanelian | Stats" src="https://github-readme-stats.vercel.app/api?username=distrikt64&show_icons=true"/>
+  <img align="center" alt="Julien Vanelian | Stats" src="https://github-readme-stats.vercel.app/api?username=distrikt64&show_icons=true&theme=dracula"/>
 </p>
 
 <br/>
