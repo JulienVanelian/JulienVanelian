@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hey fellow traveler, welcome to my profile!</h2>
-<h4 align="center">Web/Software/Game Dev | Cybersecurity | 3D Modelling | Audio Production | Photography</h4>
+<h4 align="center">Web/Mobile/Game Dev | 3D Modelling | Audio Production | Photography</h4>
   
 <p align="center">
   <img align="center" alt="Julien Vanelian | Stats" src="https://github-readme-stats.vercel.app/api?username=distrikt64&show_icons=true&theme=dracula"/>
@@ -24,15 +24,15 @@
 <p align="center">
   🟢 Currently working at <a href="https://puremix.net">pureMix</a> as a full stack web developper.<br/>
   📢 Check out my portfolio, available for now only in french: <a href="https://julien-vanelian.com">julien-vanelian.com</a>.<br/>
-  💭 Currently working on small web projects.
+  💭 Currently working on mobile and web projects.
 </p>
 
 <h3 align="center">🌟 Recent discoveries 🌟</h3>
 
 <p align="center">
-  <a href="https://github.com/alpinejs/alpine">Alpine.js</a> | 
-  <a href="https://github.com/vlang/v">V Programming Language</a> | 
-  <a href="https://github.com/NovusTheory/vue-nodegui">Vue NodeGUI</a>
+  <a href="https://laradock.io">Laradock</a> | 
+  <a href="https://jetstream.laravel.com">Laravel Jetstream</a> | 
+  <a href="https://statamic.com">Statamic 3.0</a>
   <br/>
   <br/>
   <br/>
