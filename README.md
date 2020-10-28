@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hey fellow traveler, welcome to my profile!</h2>
+<h2 align="center">👋 Hey fellow traveler, I'm Julien!</h2>
 <h4 align="center">Web/Mobile/Game Dev | 3D Modelling | Audio Production | Photography</h4>
   
 <p align="center">
@@ -23,7 +23,7 @@
 
 <p align="center">
   🟢 Currently working at <a href="https://puremix.net">pureMix</a> as a full stack web developper.<br/>
-  📢 Check out my portfolio, available for now only in french: <a href="https://julien-vanelian.com">julien-vanelian.com</a>.<br/>
+  📢 Check out my portfolio, available for now only in french: <a href="https://jvanelian.dev">jvanelian.dev</a>.<br/>
   💭 Currently working on mobile and web projects.
 </p>
 
