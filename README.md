@@ -22,7 +22,7 @@
 <br/>
 
 <p align="center">
-  🟢 Currently working at <a href="https://puremix.net">pureMix</a> as a full stack web developper.<br/>
+  🟢 Previously working at <a href="https://puremix.net">pureMix</a> as a full stack web developper.<br/>
   📢 Check out my portfolio, available for now only in french: <a href="https://jvanelian.dev">jvanelian.dev</a>.<br/>
   💭 Currently working on mobile and web projects.
 </p>
