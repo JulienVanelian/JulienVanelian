@@ -5,12 +5,13 @@
   <a href="https://twitter.com/julienvanelian">Twitter</a> – 
   <a href="https://www.instagram.com/julienvanelian/">Instagram</a>
 </p>
+
+<br/>
   
 <p align="center">
   <img align="center" alt="Julien Vanelian | Stats" src="https://github-readme-stats.vercel.app/api?username=julienvanelian&show_icons=true&theme=dracula"/>
 </p>
 
-<br/>
 <br/>
 
 <p align="center">
