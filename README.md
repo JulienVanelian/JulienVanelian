@@ -1,21 +1,16 @@
 <h2 align="center">👋 Hey fellow traveler, I'm Julien!</h2>
 <h4 align="center">Web/Mobile/Game Dev | 3D Modelling | Audio Production | Photography</h4>
+
+<p align="center">
+  <a href="https://twitter.com/julienvanelian">Twitter</a> – 
+  <a href="https://www.instagram.com/julienvanelian/">Instagram</a>
+</p>
   
 <p align="center">
   <img align="center" alt="Julien Vanelian | Stats" src="https://github-readme-stats.vercel.app/api?username=julienvanelian&show_icons=true&theme=dracula"/>
 </p>
 
 <br/>
-
-<p align="center">
-  <a href="https://twitter.com/julienvanelian">
-    <img align="center" alt="Julien Vanelian | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
-  </a>
-  <a href="https://www.instagram.com/julienvanelian/">
-    <img align="center" alt="Julien Vanelian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
-  </a>
-</p>
-
 <br/>
 
 <p align="center">
