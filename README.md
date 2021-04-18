@@ -23,9 +23,9 @@
 <h3 align="center">🌟 Recent discoveries 🌟</h3>
 
 <p align="center">
-  <a href="https://laradock.io">Laradock</a> | 
-  <a href="https://jetstream.laravel.com">Laravel Jetstream</a> | 
-  <a href="https://statamic.com">Statamic 3.0</a>
+  <a href="https://supabase.io">Supabase</a> | 
+  <a href="https://github.com/everestpipkin/tools-list">Tools list</a> | 
+  <a href="https://headlessui.dev/">Headless UI</a>
   <br/>
   <br/>
   <br/>
