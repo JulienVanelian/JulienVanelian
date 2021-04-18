@@ -17,7 +17,7 @@
 <p align="center">
   🟢 Previously working at <a href="https://puremix.net">pureMix</a> as a full stack web developper.<br/>
   📢 Check out my site, where I post stuff related to web dev: <a href="https://jvanelian.dev">jvanelian.dev</a>.<br/>
-  💭 Currently working on mobile and web projects.
+  💭 Currently working on web and game projects.
 </p>
 
 <h3 align="center">🌟 Recent discoveries 🌟</h3>
