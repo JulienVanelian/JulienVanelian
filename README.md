@@ -15,7 +15,7 @@
 <br/>
 
 <p align="center">
-  🟢 Currently working on web and game projects.<br/>
+  🟢 Currently working on game projects.<br/>
   📢 Check out my site, where I post stuff related to web dev: <a href="https://jvanelian.dev">jvanelian.dev</a>.<br/>
   ⌨ Previously at <a href="https://puremix.net">pureMix</a> as a full stack web developper.
 </p>
